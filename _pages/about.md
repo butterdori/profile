@@ -1,34 +1,52 @@
+
 ---
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Student, Georgia Tech | GRO Intern, Oak Ridge National Laboratory
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image:
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Carter School of Public Policy</p>
+    <p>Georgia Institute of Technology</p>
+    <p>Atlanta, Georgia</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in **Public Policy at the Georgia Institute of Technology**, specializing in energy and environmental policy, with a minor in Earth and Atmospheric Sciences. My doctoral advisor is Dr. Brian An.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am also a **GRO Intern in the Computational Earth Sciences Group at Oak Ridge National Laboratory (ORNL)**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on energy and environmental policy, natural disasters, and their socioeconomic impacts. My current projects examine disaster assistance and recovery, power grid resilience, the impacts of climate and economic conditions on mortality, and nuclear energy policy. I employ econometric and computational methods, including climate-related mortality estimation, Monte Carlo simulations, and natural language processing (NLP), to investigate these issues.
+
+Before joining Georgia Tech, I worked at the World Bank, UNDP, and APEC Climate Center on projects related to innovation policy, sustainable development, and climate services.
+
+I hold an M.A. in Advanced Global Studies from Sciences Po Paris and an M.A. (Honours) in International Relations from the University of St Andrews.
+
+## Research Interests
+
+- Energy and environmental policy
+- Natural disasters and disaster recovery
+- Climate impacts and socioeconomic vulnerability
+- Power grid resilience and reliability
+- Nuclear energy policy
+
+## Contact
+
+Email: [dkang341@gatech.edu](mailto:dkang341@gatech.edu)
+
