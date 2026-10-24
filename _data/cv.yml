@@ -144,6 +144,10 @@ cv:
       - name: "Who Holds the Proof? Housing Tenure, Documentation, and Administrative Burden in Federal Disaster Assistance"
         summary: "With Dr. Brian An, Georgia Tech."
 
+      - name: "Temperature-Related Mortality Estimates Across Climate Datasets and Statistical, Dynamic, and AI-based Downscaling Methods"
+        date: "2026"
+        summary: "Research in progress with Moetasim Ashfaq (Oak Ridge National Laboratory). Examines the sensitivity of temperature-related mortality estimates to observational climate datasets and statistical, dynamical, and machine-learning downscaling methods."
+
       - name: "Grid Reliability or Resilience? Natural Disasters and Comparative Analysis in Four Southeastern US States"
         summary: "With Dr. Brian An, Georgia Tech."
 
