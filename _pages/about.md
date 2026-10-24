@@ -14,7 +14,7 @@ profile:
     <p>Georgia Institute of Technology</p>
     <p>Atlanta, Georgia</p>
 
-selected_papers: false
+selected_papers: true
 social: true
 
 announcements:
