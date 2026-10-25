@@ -93,7 +93,7 @@ cv:
         end_date: "2015"
 
     Research Interests:
-	- bullet: "Energy and environmental policy, natural disasters, climate impacts, and power grid resilience."
+      - bullet: "Energy and environmental policy, natural disasters, climate impacts, and power grid resilience."
 
     Publications:      
       - title: "How national nuclear energy plans frame small modular reactors (SMRs): evidence from natural language processing of global policy documents"
