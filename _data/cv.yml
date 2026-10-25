@@ -93,7 +93,7 @@ cv:
         end_date: "2015"
 
     Research Interests:
-      - "Energy and environmental policy, natural disasters, climate impacts, and power grid resilience."
+	- bullet: "Energy and environmental policy, natural disasters, climate impacts, and power grid resilience."
 
     Publications:      
       - title: "How national nuclear energy plans frame small modular reactors (SMRs): evidence from natural language processing of global policy documents"
@@ -141,28 +141,13 @@ cv:
         date: "2018"
 
     Presentations and Posters:
-      - name: "Who Holds the Proof? Housing Tenure, Documentation, and Administrative Burden in Federal Disaster Assistance"
-        date: "2026"
-        summary: "Association for Public Policy Analysis and Management (APPAM) Annual Fall Research Conference, Boston, MA, November 5, 2026. Panel: Power, Protection, and Precarity: Evaluating Interventions in Housing Stability."
-
-      - name: "Building Resilience through Equity: A 20-Year Analysis of FEMA Disaster Assistance and Structural Disparities"
-        date: "2025"
-        summary: "APPAM Annual Fall Research Conference, Seattle, WA, November 13, 2025. Panel: Disaster Aid, Equity, and Electoral Disruptions: Analyzing the Impact of Climate Hazards and Government Responses."
+      - bullet: "**Who Holds the Proof? Housing Tenure, Documentation, and Administrative Burden in Federal Disaster Assistance** (2026). Association for Public Policy Analysis and Management (APPAM) Annual Fall Research Conference, Boston, MA, November 5, 2026. Panel: Power, Protection, and Precarity: Evaluating Interventions in Housing Stability."
+      - bullet: "**Building Resilience through Equity: A 20-Year Analysis of FEMA Disaster Assistance and Structural Disparities** (2025). APPAM Annual Fall Research Conference, Seattle, WA, November 13, 2025. Panel: Disaster Aid, Equity, and Electoral Disruptions: Analyzing the Impact of Climate Hazards and Government Responses."
 
     Working Papers and Research in Progress:
-      - name: "Who Holds the Proof? Housing Tenure, Documentation, and Administrative Burden in Federal Disaster Assistance"
-        summary: "With Dr. Brian An, Georgia Tech."
-
-      - name: "Temperature-Related Mortality Estimates Across Climate Datasets and Statistical, Dynamical, and AI-Based Downscaling Methods"
-        date: "2026"
-        summary: "Research in progress with Moetasim Ashfaq (Oak Ridge National Laboratory). Examines the sensitivity of temperature-related mortality estimates to observational climate datasets and statistical, dynamical, and machine-learning downscaling methods."
-
-      - name: "Population Risk Preferences and Disaster Outcomes"
-      
-      - name: "Grid Reliability or Resilience? Natural Disasters and Comparative Analysis in Four Southeastern US States"
-        summary: "With Dr. Brian An, Georgia Tech."
-
-      - name: "Unpacking Threshold Parameters for Declaration of Natural Disasters Due to Hurricanes"
-
-      - name: "Global Development for Clean Hydrogen Policies and Governance"
-        summary: "With Dr. Brian An (Georgia Tech), Jenny (Ahyun) Jung (Seoul National University), and Mintiben Patel (Georgia Tech)."
+      - bullet: "**Who Holds the Proof? Housing Tenure, Documentation, and Administrative Burden in Federal Disaster Assistance.** With Dr. Brian An, Georgia Tech."
+      - bullet: "**Temperature-Related Mortality Estimates Across Climate Datasets and Statistical, Dynamical, and AI-Based Downscaling Methods** (2026). Research in progress with Moetasim Ashfaq (Oak Ridge National Laboratory). Examines the sensitivity of temperature-related mortality estimates to observational climate datasets and statistical, dynamical, and machine-learning downscaling methods."
+      - bullet: "**Population Risk Preferences and Disaster Outcomes**"
+      - bullet: "**Grid Reliability or Resilience? Natural Disasters and Comparative Analysis in Four Southeastern US States.** With Dr. Brian An, Georgia Tech."
+      - bullet: "**Unpacking Threshold Parameters for Declaration of Natural Disasters Due to Hurricanes**"
+      - bullet: "**Global Development for Clean Hydrogen Policies and Governance.** With Dr. Brian An (Georgia Tech), Jenny (Ahyun) Jung (Seoul National University), and Mintiben Patel (Georgia Tech)."
