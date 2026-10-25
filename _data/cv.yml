@@ -1,14 +1,9 @@
+
 cv:
   name: Daein Kang
-  label: Ph.D. Student in Public Policy
+  headline: Ph.D. Student in Public Policy
   email: dkang341@gatech.edu
   website: https://www.daeinkang.com
-  image: ""
-  summary: >
-    Ph.D. student at the Georgia Institute of Technology and GRO Intern
-    at Oak Ridge National Laboratory. Research interests include energy
-    and environmental policy, natural disasters, climate impacts,
-    and power grid resilience.
 
   social_networks:
     - network: LinkedIn
@@ -17,6 +12,13 @@ cv:
       username: butterdori
 
   sections:
+    Profile:
+      - >-
+        Ph.D. student at the Georgia Institute of Technology and GRO Intern
+        at Oak Ridge National Laboratory. Research interests include energy
+        and environmental policy, natural disasters, climate impacts,
+        and power grid resilience.
+
     Education:
       - institution: Georgia Institute of Technology
         area: Public Policy
@@ -48,7 +50,7 @@ cv:
       - company: Oak Ridge National Laboratory
         position: GRO Intern, Computational Earth Sciences Group
         location: Oak Ridge, TN, USA
-        start_date: 2026-08
+        start_date: "2026-08"
         end_date: present
 
       - company: Georgia Institute of Technology
@@ -94,7 +96,7 @@ cv:
     Research Interests:
       - bullet: "Energy and environmental policy, natural disasters, climate impacts, and power grid resilience."
 
-    Publications:      
+    Publications:
       - title: "How national nuclear energy plans frame small modular reactors (SMRs): evidence from natural language processing of global policy documents"
         authors:
           - Daein Kang
