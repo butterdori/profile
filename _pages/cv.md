@@ -8,10 +8,10 @@ nav: true
 nav_order: 4
 ---
 
-[Open CV in a new tab]({{ '/assets/pdf/Daein_Kang_CV_Nov26.pdf' | relative_url }}) · [Download CV]({{ '/assets/pdf/Daein_Kang_CV_Nov26.pdf' | relative_url }})
+[Open CV in a new tab]({{ '/assets/pdf/Daein_Kang_CV.pdf' | relative_url }}) · [Download CV]({{ '/assets/pdf/Daein_Kang_CV.pdf' | relative_url }})
 
 <iframe
-  src="{{ '/assets/pdf/Daein_Kang_CV_Nov26.pdf' | relative_url }}"
+  src="{{ '/assets/pdf/Daein_Kang_CV.pdf' | relative_url }}"
   width="100%"
   height="1100"
   title="Daein Kang Curriculum Vitae"
