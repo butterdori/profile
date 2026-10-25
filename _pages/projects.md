@@ -3,7 +3,7 @@ layout: page
 title: research
 permalink: /research/
 description: Working papers and ongoing research.
-nav: true
+nav: false
 nav_order: 3
 ---
 
