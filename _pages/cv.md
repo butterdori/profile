@@ -1,20 +1,10 @@
 ---
-layout: page
-title: cv
+layout: cv
+title: CV
 permalink: /cv/
 description: Curriculum Vitae
 nav: true
 nav_order: 4
+cv_format: rendercv
+cv_pdf: /assets/rendercv/rendercv_output/CV.pdf
 ---
-
-[Open CV in a new tab]({{ '/assets/pdf/Daein_Kang_CV.pdf' | relative_url }}) · [Download CV]({{ '/assets/pdf/Daein_Kang_CV.pdf' | relative_url }})
-
-<iframe
-  src="{{ '/assets/pdf/Daein_Kang_CV.pdf' | relative_url }}"
-  width="100%"
-  height="1100"
-  title="Daein Kang Curriculum Vitae"
-  style="border: none;"
->
-</iframe>
-
