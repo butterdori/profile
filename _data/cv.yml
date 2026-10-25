@@ -17,7 +17,7 @@ cv:
         area: Public Policy
         degree: Ph.D.
         location: Atlanta, Georgia, USA
-        start_date: "2023"
+        start_date: "2023-09"
         end_date: present
         highlights:
           - "School of Public Policy"
@@ -29,15 +29,15 @@ cv:
         area: Advanced Global Studies (Development Practice)
         degree: M.A.
         location: Paris, France
-        start_date: "2020"
-        end_date: "2021"
+        start_date: "2020-09"
+        end_date: "2021-08"
 
       - institution: University of St Andrews
         area: International Relations (Honours)
         degree: M.A.
         location: St Andrews, Scotland
-        start_date: "2007"
-        end_date: "2011"
+        start_date: "2007-10"
+        end_date: "2011-06"
 
     Experience:
       - company: Oak Ridge National Laboratory
@@ -45,11 +45,13 @@ cv:
         location: Oak Ridge, TN, USA
         start_date: "2026-08"
         end_date: present
+        highlights:
+          - "Temperature-Related Mortality Estimates Across Climate Datasets and Statistical, Dynamical, and AI-Based Downscaling Methods"
 
       - company: Georgia Institute of Technology
         position: Graduate Research Assistant
         location: Atlanta, Georgia, USA
-        start_date: "2023"
+        start_date: "2023-09"
         end_date: present
         highlights:
           - "Climate Atlas: Impact of climate and economic conditions on mortality (2025–present)"
@@ -58,16 +60,16 @@ cv:
       - company: The World Bank
         position: Consultant, Seoul Center for Finance and Innovation
         location: Seoul, South Korea
-        start_date: "2021"
-        end_date: "2024"
+        start_date: "2021-11"
+        end_date: "2024-01"
         highlights:
           - Innovation policy and private sector development
 
       - company: United Nations Development Programme (UNDP)
         position: Intern, Seoul Policy Centre
         location: Seoul, South Korea
-        start_date: "2021"
-        end_date: "2022"
+        start_date: "2021-09"
+        end_date: "2022-02"
         highlights:
           - Sustainable forestry practices
           - SDG Partnership projects on forestry
@@ -75,16 +77,16 @@ cv:
       - company: APEC Climate Center
         position: Project Manager, International Cooperation Department
         location: Busan, South Korea
-        start_date: "2016"
-        end_date: "2020"
+        start_date: "2016-08"
+        end_date: "2020-06"
         highlights:
           - Managed joint research projects, including work with FAO on climate impacts on agriculture
           - Managed international knowledge-transfer programs on climate data utilization
 
       - company: CISM World Games Organizing Committee, Ministry of National Defence of Korea
         position: Anglophone Cooperation Officer, International Cooperation Department
-        start_date: "2013"
-        end_date: "2015"
+        start_date: "2013-11"
+        end_date: "2015-06"
 
     Research Interests:
       - bullet: "Energy and environmental policy, natural disasters, climate impacts, and power grid resilience."
