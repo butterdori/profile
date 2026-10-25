@@ -6,7 +6,7 @@ subtitle: Ph.D. Student, Georgia Tech | GRO Intern, Oak Ridge National Laborator
 
 profile:
   align: right
-  image:
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Carter School of Public Policy</p>
@@ -33,7 +33,7 @@ I am also a **GRO Intern in the Computational Earth Sciences Group at Oak Ridge 
 
 My research focuses on energy and environmental policy, natural disasters, and their socioeconomic impacts. My current projects examine disaster assistance and recovery, power grid resilience, the impacts of climate and economic conditions on mortality, and nuclear energy policy. I employ econometric and computational methods, including climate-related mortality estimation, Monte Carlo simulations, and natural language processing (NLP), to investigate these issues.
 
-Before joining Georgia Tech, I worked at the World Bank, UNDP, and APEC Climate Center on projects related to innovation policy, sustainable development, and climate services.
+Before Georgia Tech, I worked at the World Bank, UNDP, and APEC Climate Center on projects related to innovation policy, sustainable development, and climate services.
 
 I hold an M.A. in Advanced Global Studies from Sciences Po Paris and an M.A. (Honours) in International Relations from the University of St Andrews.
 
