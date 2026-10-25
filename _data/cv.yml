@@ -12,13 +12,6 @@ cv:
       username: butterdori
 
   sections:
-    Profile:
-      - >-
-        Ph.D. student at the Georgia Institute of Technology and GRO Intern
-        at Oak Ridge National Laboratory. Research interests include energy
-        and environmental policy, natural disasters, climate impacts,
-        and power grid resilience.
-
     Education:
       - institution: Georgia Institute of Technology
         area: Public Policy
