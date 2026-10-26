@@ -5,14 +5,11 @@ cv:
   email: dkang341@gatech.edu
   website: https://www.daeinkang.com
 
-  custom_connections:
-    - placeholder: LinkedIn
-      url: https://www.linkedin.com/in/daein-kang-30351320/
-      fontawesome_icon: linkedin
-
-    - placeholder: GitHub
-      url: https://github.com/butterdori
-      fontawesome_icon: github
+  social_networks:
+    - network: LinkedIn
+      username: daein-kang-30351320
+    - network: GitHub
+      username: butterdori
 
   sections:
     Education:
