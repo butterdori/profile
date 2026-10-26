@@ -13,7 +13,7 @@ profile:
     Georgia Tech<br>
     Atlanta, GA</p>
 
-selected_papers: false
+selected_papers: true
 social: true
 
 announcements:
