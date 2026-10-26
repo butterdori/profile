@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>School of Public Policy</p>
     <p>Georgia Tech</p>
+    <p>Atlanta, GA</p>
 
 selected_papers: false
 social: true
