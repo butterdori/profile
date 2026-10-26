@@ -15,6 +15,7 @@ node_modules/
 output/playwright/
 test-results/
 vendor
+command.txt
 
 # Python bytecode from bin/ helper scripts
 __pycache__/
