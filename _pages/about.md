@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student, Georgia Tech | GRO Intern, Oak Ridge National Laboratory
+subtitle: Ph.D. Student, Georgia Tech
 
 profile:
   align: right
