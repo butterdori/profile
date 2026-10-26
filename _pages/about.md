@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>School of Public Policy</p>
-    <p>Georgia Tech</p>
-    <p>Atlanta, GA</p>
+    <p>School of Public Policy<br>
+    Georgia Tech<br>
+    Atlanta, GA</p>
 
 selected_papers: false
 social: true
