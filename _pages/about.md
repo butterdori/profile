@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Carter School of Public Policy</p>
-    <p>Georgia Institute of Technology</p>
-    <p>Atlanta, Georgia</p>
+    <p>School of Public Policy</p>
+    <p>Georgia Tech</p>
 
 selected_papers: false
 social: true
@@ -30,7 +29,7 @@ latest_posts:
 <style>
   @media (min-width: 768px) {
     .profile {
-      width: 40%;
+      width: 30%;
     }
   }
 </style>
