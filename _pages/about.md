@@ -56,4 +56,3 @@ I hold an M.A. in Advanced Global Studies from Sciences Po Paris and an M.A. (Ho
 ## Contact
 
 Email: [dkang341@gatech.edu](mailto:dkang341@gatech.edu)
-

@@ -1,14 +1,11 @@
-
 # Social links ----
-
 email: dkang341@gatech.edu
 scholar_userid: hscukPoAAAAJ
 orcid_id: 0009-0002-5596-5072
-linkedin_username: daein-kang-30351320 
+linkedin_username: daein-kang-30351320
 github_username: butterdori
 
 custom_social:
   logo: fa-solid fa-file-lines
   title: SSRN
   url: "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=7433409"
-
