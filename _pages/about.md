@@ -27,6 +27,14 @@ latest_posts:
   limit: 3
 ---
 
+<style>
+  @media (min-width: 768px) {
+    .profile {
+      width: 40%;
+    }
+  }
+</style>
+
 I am a Ph.D. student in **Public Policy at the Georgia Institute of Technology**, specializing in energy and environmental policy, with a minor in Earth and Atmospheric Sciences. My doctoral advisor is Dr. Brian An.
 
 I am also a **GRO Intern in the Computational Earth Sciences Group at Oak Ridge National Laboratory (ORNL)**.
