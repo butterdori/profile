@@ -5,11 +5,14 @@ cv:
   email: dkang341@gatech.edu
   website: https://www.daeinkang.com
 
-  social_networks:
-    - network: LinkedIn
-      username: daein-kang-30351320
-    - network: GitHub
-      username: butterdori
+  custom_connections:
+    - placeholder: LinkedIn
+      url: https://www.linkedin.com/in/daein-kang-30351320/
+      fontawesome_icon: linkedin
+
+    - placeholder: GitHub
+      url: https://github.com/butterdori
+      fontawesome_icon: github
 
   sections:
     Education:
@@ -105,36 +108,37 @@ cv:
 
       - title: "Lessons from Korea's Energy Efficiency Policies in the Industrial Sector"
         authors:
-          - A. Aridi
-          - K. Kim
-          - J. Lee
-          - N. Shin
-          - D. Kang
+          - Anwar Aridi
+          - Kibum Kim
+          - Joo Sueb Lee
+          - Nah Yoon Shin
+          - Daein Kang
         journal: World Bank Group, Finance, Competitiveness and Innovation Global Practice
         date: "2023"
         url: https://documents.worldbank.org/curated/en/099906108172338225/IDU0f7ebfd9b0df990435a0940f0d7abeaf292dc
-
+      
       - title: "A Collective Vision for Agriculture Climate Services in the Asia-Pacific Region"
         authors:
-          - J. Han
-          - I. Jang
-          - D. Kang
-          - M. Baek
-          - H. Kanamaru
-          - K. Kim
+          - Juhyeong Han
+          - Inyoung Jang
+          - Daein Kang
+          - Minju Baek
+          - Hideki Kanamaru
+          - Kwang-Hyung Kim
         journal: Bulletin of the American Meteorological Society
         date: "2022"
 
       - title: "Suggestion of User-Centered Climate Service Framework and Development of User Interface Platform for Climate Change Adaptation"
         authors:
-          - J. Cho
-          - I. Jung
-          - W. Cho
-          - E. Lee
-          - D. Kang
-          - J. Lee
+          - Jaepil Cho
+          - Imgook Jung
+          - Wonil Cho
+          - Eun-Jeong Lee
+          - Daein Kang
+          - Junhyuk Lee
         journal: Journal of Climate Change Research, Vol. 9, No. 1
         date: "2018"
+
 
     Presentations and Posters:
       - bullet: "**Who Holds the Proof? Housing Tenure, Documentation, and Administrative Burden in Federal Disaster Assistance** (2026). Association for Public Policy Analysis and Management (APPAM) Annual Fall Research Conference, Boston, MA, November 5, 2026. Panel: Power, Protection, and Precarity: Evaluating Interventions in Housing Stability."
