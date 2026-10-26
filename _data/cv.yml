@@ -5,18 +5,21 @@ cv:
   email: dkang341@gatech.edu
   website: https://www.daeinkang.com
 
-  social_networks:
-    - network: LinkedIn
-      username: daein-kang-30351320
-    - network: GitHub
-      username: butterdori
+  custom_connections:
+    - placeholder: LinkedIn
+      url: https://www.linkedin.com/in/daein-kang-30351320/
+      fontawesome_icon: linkedin
+
+#    - placeholder: GitHub
+#      url: https://github.com/butterdori
+#      fontawesome_icon: github
 
   sections:
     Education:
       - institution: Georgia Institute of Technology
         area: Public Policy
         degree: Ph.D.
-        location: Atlanta, Georgia, USA
+        location: Atlanta, GA, USA
         start_date: "2023-09"
         end_date: present
         highlights:
@@ -50,7 +53,7 @@ cv:
 
       - company: Georgia Institute of Technology
         position: Graduate Research Assistant
-        location: Atlanta, Georgia, USA
+        location: Atlanta, GA, USA
         start_date: "2023-09"
         end_date: present
         highlights:
@@ -136,13 +139,12 @@ cv:
         journal: Journal of Climate Change Research, Vol. 9, No. 1
         date: "2018"
 
-
     Presentations and Posters:
       - bullet: "**Who Holds the Proof? Housing Tenure, Documentation, and Administrative Burden in Federal Disaster Assistance** (2026). Association for Public Policy Analysis and Management (APPAM) Annual Fall Research Conference, Boston, MA, November 5, 2026. Panel: Power, Protection, and Precarity: Evaluating Interventions in Housing Stability."
       - bullet: "**Building Resilience through Equity: A 20-Year Analysis of FEMA Disaster Assistance and Structural Disparities** (2025). APPAM Annual Fall Research Conference, Seattle, WA, November 13, 2025. Panel: Disaster Aid, Equity, and Electoral Disruptions: Analyzing the Impact of Climate Hazards and Government Responses."
 
     Working Papers and Research in Progress:
-      - bullet: "**Housing Tenure, Documentation, and Administrative Burden in Federal Disaster Assistance.** With Dr. Brian An, Georgia Tech."
+      - bullet: "**Who Holds the Proof? Housing Tenure, Documentation, and Administrative Burden in Federal Disaster Assistance.** With Dr. Brian An, Georgia Tech."
       - bullet: "**Temperature-Related Mortality Estimates Across Climate Datasets and Statistical, Dynamical, and AI-Based Downscaling Methods** (2026). Research in progress with Dr. Moetasim Ashfaq (Oak Ridge National Laboratory). Examines the sensitivity of temperature-related mortality estimates to observational climate datasets and statistical, dynamical, and machine-learning downscaling methods."
       - bullet: "**Population Risk Preferences and Disaster Outcomes**"
       - bullet: "**Grid Reliability or Resilience? Natural Disasters and Comparative Analysis in Four Southeastern US States.** With Dr. Brian An, Georgia Tech."
