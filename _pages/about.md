@@ -37,7 +37,7 @@ latest_posts:
 
 I am a Ph.D. student in **Public Policy at the Georgia Institute of Technology**, specializing in energy and environmental policy, with a minor in Earth and Atmospheric Sciences. My doctoral advisor is Dr. Brian An.
 
-I am also a **GRO Intern in the Computational Earth Sciences Group at Oak Ridge National Laboratory (ORNL)**.
+I am also a **GRO Intern in the Computational Earth Sciences Directorate at Oak Ridge National Laboratory (ORNL)**.
 
 My research focuses on energy and environmental policy, natural disasters, and their socioeconomic impacts. My current projects examine disaster assistance and recovery, power grid resilience, the impacts of climate and economic conditions on mortality, and nuclear energy policy. I employ econometric and computational methods, including climate-related mortality estimation, Monte Carlo simulations, and natural language processing (NLP), to investigate these issues.
 

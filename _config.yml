@@ -241,6 +241,7 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  - "**/*.md.temp"
 keep_files:
   - CNAME
   - .nojekyll
