@@ -50,8 +50,6 @@ I hold an M.A. in Advanced Global Studies from Sciences Po Paris and an M.A. (Ho
 - Energy and environmental policy
 - Natural disasters and disaster recovery
 - Climate impacts and socioeconomic vulnerability
-- Power grid resilience and reliability
-- Nuclear energy policy
 
 ## contact
 
