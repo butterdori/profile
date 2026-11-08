@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who Holds the Proof? Renters, Documentation, and Administrative Burden in Disaster Assistance"
-date: 2026-11-08 08:00:00 -0500
+date: 2026-11-05 08:00:00 -0500
 description: "What 22.1 million FEMA disaster assistance applications reveal about housing tenure, missing documentation, and who controls the proof."
 tags: disaster-assistance FEMA housing-tenure administrative-burden public-policy
 categories: research
@@ -24,17 +24,17 @@ We construct a study examining three outcomes in FEMA disaster assistance: **app
 - Proximity to Disaster Recovery Centers and recent county disaster experience are also associated with higher approval, though those relationships vary by year.
 
 <figure style="margin: 1.5rem 0;">
-  <img src="{{ '/assets/261108_who_holds_the_proof/main_findings.png' | relative_url }}" alt="Adjusted renter–homeowner differences in FEMA documentation-related and substantive denials, including adjusted rates and sample size." style="display: block; width: 100%; height: auto;" loading="lazy">
+  <img src="{{ '/assets/261108_who_holds_the_proof/main_findings.png' | relative_url }}" alt="Adjusted renter–homeowner differences in FEMA documentation-related and substantive denials, including adjusted rates and sample size." style="display: block; width: 70%; height: auto;" loading="lazy">
   <figcaption style="font-size: 0.875rem; color: #666; margin-top: 0.4rem;">Adjusted renter–homeowner differences in documentation-related and substantive denials. Estimates in percentage points.</figcaption>
 </figure>
 
 <figure style="margin: 1.5rem 0;">
-  <img src="{{ '/assets/261108_who_holds_the_proof/renter_homeowner_gap_by_year.png' | relative_url }}" alt="Annual renter-minus-homeowner differences in FEMA documentation-related and substantive denial rates, showing a positive documentation gap in every year from 2015 through 2023." style="display: block; width: 100%; height: auto;" loading="lazy">
+  <img src="{{ '/assets/261108_who_holds_the_proof/renter_homeowner_gap_by_year.png' | relative_url }}" alt="Annual renter-minus-homeowner differences in FEMA documentation-related and substantive denial rates, showing a positive documentation gap in every year from 2015 through 2023." style="display: block; width: 70%; height: auto;" loading="lazy">
   <figcaption style="font-size: 0.875rem; color: #666; margin-top: 0.4rem;">Renter–homeowner denial gaps over time.</figcaption>
 </figure>
 
 <figure style="margin: 1.5rem 0;">
-  <img src="{{ '/assets/261108_who_holds_the_proof/income_no_monotonic_gradient.png' | relative_url }}" alt="Original research plot comparing documentation-related denial estimates by household income bracket, with and without accounting for housing tenure." style="display: block; width: 100%; height: auto;" loading="lazy">
+  <img src="{{ '/assets/261108_who_holds_the_proof/income_no_monotonic_gradient.png' | relative_url }}" alt="Original research plot comparing documentation-related denial estimates by household income bracket, with and without accounting for housing tenure." style="display: block; width: 70%; height: auto;" loading="lazy">
   <figcaption style="font-size: 0.875rem; color: #666; margin-top: 0.4rem;">Documentation-related denials by income bracket, with and without tenure controls.</figcaption>
 </figure>
 
