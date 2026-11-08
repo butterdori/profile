@@ -14,9 +14,18 @@ Small modular reactors (SMRs) have attracted interest as a potential source of r
 
 In **“How national nuclear energy plans frame small modular reactors (SMRs): evidence from natural language processing of global policy documents,”** we examine the policy language surrounding SMRs across **66 national and international energy plans from eight countries**. We extract passages around SMR-related terms, yielding **more than 800,000 words**, and combine natural language processing—TF-IDF and topic modeling (LDA)—with qualitative close reading to understand which themes dominate and which receive less attention.
 
-<figure style="margin: 1.5rem auto;">
-  <img src="{{ '/assets/260805_smr_policy_framing/figure3_research_roadmap' | relative_url }}" alt="Research roadmap from country and document selection through SMR-passage extraction and preprocessing, TF-IDF and LDA analyses, and robustness checks." style="display: block; width: 70%; height: auto;" loading="lazy">
+<figure style="width: 70%; margin: 1.5rem auto;">
+  <img src="{{ '/assets/260805_smr_policy_framing/figure3_research_roadmap' | relative_url }}" alt="Research roadmap from country and document selection through SMR-passage extraction and preprocessing, TF-IDF and LDA analyses, and robustness checks." style="display: block; width: 100%; height: auto;" loading="lazy">
   <figcaption style="font-size: 0.875rem; color: #666; margin-top: 0.4rem;"></figcaption>
+</figure>
+
+## Study context
+
+Our analysis begins with published energy plans and policy statements issued by national ministries and relevant agencies in the **United States, Russia, France, Japan, China, the United Kingdom, South Korea, and Canada**. The selected documents cover 2016–2025 and include both English-language documents and translated material. We apply NLP to extracted SMR-relevant text rather than treating all words in a national energy plan as SMR discourse.
+
+<figure style="width: 70%; margin: 1.5rem auto;">
+  <img src="{{ '/assets/260805_smr_policy_framing/figure4_document_selection.png' | relative_url }}" alt="Original Figure 4 showing how national energy ministries and subordinate agencies provide energy policy documents from which SMR keyword passages are extracted." style="display: block; width: 100%; height: auto;" loading="lazy">
+  <figcaption style="font-size: 0.875rem; color: #666; margin-top: 0.4rem;">Selection of national policy documents and SMR-related passages.</figcaption>
 </figure>
 
 ## Main findings
@@ -26,20 +35,11 @@ In **“How national nuclear energy plans frame small modular reactors (SMRs): e
 - **Less frequent does not mean absent.** Qualitative close reading reveals references to low-carbon goals, community benefits, hybrid energy systems, and local economic opportunities—notably in Canadian, British, and Japanese policy documents, even when these themes are less visible in keyword rankings.
 - However, **the findings concern policy framing, not actual deployment.** Word-frequency rankings identify lexical prominence, not the significance of particular commitments or the reasons governments emphasize specific technologies.
 
-<figure style="margin: 1.5rem auto;">
-  <img src="{{ '/assets/260805_smr_policy_framing/table2_normalized_tfidf.png' | relative_url }}" alt="Top 15 country-normalized TF-IDF scores from Table 2, led by reactor at 1.00, development at 0.73, technology at 0.71, project at 0.60, and design at 0.57." style="display: block; width: 70%; height: auto;" loading="lazy">
+<figure style="width: 70%; margin: 1.5rem auto;">
+  <img src="{{ '/assets/260805_smr_policy_framing/table2_normalized_tfidf.png' | relative_url }}" alt="Top 15 country-normalized TF-IDF scores from Table 2, led by reactor at 1.00, development at 0.73, technology at 0.71, project at 0.60, and design at 0.57." style="display: block; width: 100%; height: auto;" loading="lazy">
   <figcaption style="font-size: 0.875rem; color: #666; margin-top: 0.4rem;">The 15 most salient terms in the policy corpus. Scores are relative, country-normalized TF-IDF values.</figcaption>
-</figure>
-
-## Study context
-
-Our analysis begins with published energy plans and policy statements issued by national ministries and relevant agencies in the **United States, Russia, France, Japan, China, the United Kingdom, South Korea, and Canada**. The selected documents cover 2016–2025 and include both English-language documents and translated material. We apply NLP to extracted SMR-relevant text rather than treating all words in a national energy plan as SMR discourse.
-
-<figure style="margin: 1.5rem auto;">
-  <img src="{{ '/assets/260805_smr_policy_framing/figure4_document_selection.png' | relative_url }}" alt="Original Figure 4 showing how national energy ministries and subordinate agencies provide energy policy documents from which SMR keyword passages are extracted." style="display: block; width: 70%; height: auto;" loading="lazy">
-  <figcaption style="font-size: 0.875rem; color: #666; margin-top: 0.4rem;">Selection of national policy documents and SMR-related passages.</figcaption>
 </figure>
 
 **The way governments frame an emerging technology affects which questions receive attention.** A national conversation focused primarily on reactor design and regulatory readiness may leave less room for the broader role of SMRs in urban energy systems, including resilience, community participation, equitable benefit-sharing, and integration with other energy sources. Our findings highlight these gaps in the policy discourse of SMRs with regards to energy transition.
 
-[Environmental Research Letters — open-access article](https://doi.org/10.1088/1748-9326/ae8e92).
+[Kang, D., Kim, J. D., Thu, M. K., & An, B. Y. (2026). How national nuclear energy plans frame small modular reactors (SMRs): Evidence from natural language processing of global policy documents. *Environmental Research Letters, 21*, 154027.](https://doi.org/10.1088/1748-9326/ae8e92)
