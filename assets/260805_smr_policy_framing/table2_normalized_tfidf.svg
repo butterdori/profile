@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="1120" viewBox="0 0 1360 1120">
+<rect width="1360" height="1120" fill="white"/>
+<text x="60" y="74" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#202937">Which terms dominate national SMR policy texts?</text>
+<text x="60" y="111" font-family="Arial,sans-serif" font-size="19" fill="#596777">Country-normalized TF-IDF scores (published Table 2) · Scores scaled from 0 to 1</text>
+<line x1="60" y1="138" x2="1300" y2="138" stroke="#d7e0e8" stroke-width="2"/>
+<text x="267" y="207" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Reactor</text>
+<rect x="290" y="181" width="898" height="30" rx="6" fill="#e9f0f3"/>
+<rect x="290" y="181" width="898.0" height="30" rx="6" fill="#31948b"/>
+<text x="1200.0" y="205" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">1.00</text>
+<text x="267" y="264" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Development</text>
+<rect x="290" y="238" width="898" height="30" rx="6" fill="#e9f0f3"/>
+<rect x="290" y="238" width="655.5" height="30" rx="6" fill="#31948b"/>
+<text x="957.5" y="262" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.73</text>
+<text x="267" y="321" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Technology</text>
+<rect x="290" y="295" width="898" height="30" rx="6" fill="#e9f0f3"/>
+<rect x="290" y="295" width="637.6" height="30" rx="6" fill="#31948b"/>
+<text x="939.6" y="319" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.71</text>
+<text x="267" y="378" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Project</text>
+<rect x="290" y="352" width="898" height="30" rx="6" fill="#e9f0f3"/>
+<rect x="290" y="352" width="538.8" height="30" rx="6" fill="#31948b"/>
+<text x="840.8" y="376" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.60</text>
+<text x="267" y="435" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Design</text>
+<rect x="290" y="409" width="898" height="30" rx="6" fill="#e9f0f3"/>
+<rect x="290" y="409" width="511.9" height="30" rx="6" fill="#31948b"/>
+<text x="813.9" y="433" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.57</text>
+<text x="267" y="492" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">System</text>
+<rect x="290" y="466" width="898" height="30" rx="6" fill="#e9f0f3"/>
+<rect x="290" y="466" width="458.0" height="30" rx="6" fill="#559eb2"/>
+<text x="760.0" y="490" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.51</text>
+<text x="267" y="549" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Fuel</text>
+<rect x="290" y="523" width="898" height="30" rx="6" fill="#e9f0f3"/>
+<rect x="290" y="523" width="395.1" height="30" rx="6" fill="#559eb2"/>
+<text x="697.1" y="547" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.44</text>
+<text x="267" y="606" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Plant</text>
+<rect x="290" y="580" width="898" height="30" rx="6" fill="#e9f0f3"/>
+<rect x="290" y="580" width="359.2" height="30" rx="6" fill="#559eb2"/>
+<text x="661.2" y="604" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.40</text>
+<text x="267" y="663" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Safety</text>
+<rect x="290" y="637" width="898" height="30" rx="6" fill="#e9f0f3"/>
+<rect x="290" y="637" width="323.3" height="30" rx="6" fill="#559eb2"/>
+<text x="625.3" y="661" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.36</text>
+<text x="267" y="720" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Construction</text>
+<rect x="290" y="694" width="898" height="30" rx="6" fill="#e9f0f3"/>
+<rect x="290" y="694" width="314.3" height="30" rx="6" fill="#559eb2"/>
+<text x="616.3" y="718" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.35</text>
+<text x="267" y="777" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Support</text>
+<rect x="290" y="751" width="898" height="30" rx="6" fill="#e9f0f3"/>
+<rect x="290" y="751" width="287.4" height="30" rx="6" fill="#8db5c2"/>
+<text x="589.4" y="775" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.32</text>
+<text x="267" y="834" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Industry</text>
+<rect x="290" y="808" width="898" height="30" rx="6" fill="#e9f0f3"/>
+<rect x="290" y="808" width="251.4" height="30" rx="6" fill="#8db5c2"/>
+<text x="553.4" y="832" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.28</text>
+<text x="267" y="891" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Government</text>
+<rect x="290" y="865" width="898" height="30" rx="6" fill="#e9f0f3"/>
+<rect x="290" y="865" width="242.5" height="30" rx="6" fill="#8db5c2"/>
+<text x="544.5" y="889" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.27</text>
+<text x="267" y="948" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Supply</text>
+<rect x="290" y="922" width="898" height="30" rx="6" fill="#e9f0f3"/>
+<rect x="290" y="922" width="233.5" height="30" rx="6" fill="#8db5c2"/>
+<text x="535.5" y="946" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.26</text>
+<text x="267" y="1005" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Generation</text>
+<rect x="290" y="979" width="898" height="30" rx="6" fill="#e9f0f3"/>
+<rect x="290" y="979" width="224.5" height="30" rx="6" fill="#8db5c2"/>
+<text x="526.5" y="1003" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.25</text>
+<text x="60" y="1091" font-family="Arial,sans-serif" font-size="18" fill="#596777">Source: Kang et al. (2026), Table 2. These are relative lexical salience scores, not percentages or measures of policy priority.</text>
+</svg>
