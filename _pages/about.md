@@ -22,7 +22,7 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true
   limit: 3
 ---
@@ -45,7 +45,7 @@ Before Georgia Tech, I worked at the World Bank, UNDP, and APEC Climate Center o
 
 I hold an M.A. in Advanced Global Studies from Sciences Po Paris and an M.A. (Honours) in International Relations from the University of St Andrews.
 
-## Research Interests
+## research interests
 
 - Energy and environmental policy
 - Natural disasters and disaster recovery
@@ -53,6 +53,6 @@ I hold an M.A. in Advanced Global Studies from Sciences Po Paris and an M.A. (Ho
 - Power grid resilience and reliability
 - Nuclear energy policy
 
-## Contact
+## contact
 
 Email: [dkang341@gatech.edu](mailto:dkang341@gatech.edu)
