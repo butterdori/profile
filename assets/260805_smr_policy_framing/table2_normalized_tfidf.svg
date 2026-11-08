@@ -1,67 +1,545 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="1120" viewBox="0 0 1360 1120">
-<rect width="1360" height="1120" fill="white"/>
-<text x="60" y="74" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#202937">Which terms dominate national SMR policy texts?</text>
-<text x="60" y="111" font-family="Arial,sans-serif" font-size="19" fill="#596777">Country-normalized TF-IDF scores (published Table 2) · Scores scaled from 0 to 1</text>
-<line x1="60" y1="138" x2="1300" y2="138" stroke="#d7e0e8" stroke-width="2"/>
-<text x="267" y="207" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Reactor</text>
-<rect x="290" y="181" width="898" height="30" rx="6" fill="#e9f0f3"/>
-<rect x="290" y="181" width="898.0" height="30" rx="6" fill="#31948b"/>
-<text x="1200.0" y="205" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">1.00</text>
-<text x="267" y="264" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Development</text>
-<rect x="290" y="238" width="898" height="30" rx="6" fill="#e9f0f3"/>
-<rect x="290" y="238" width="655.5" height="30" rx="6" fill="#31948b"/>
-<text x="957.5" y="262" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.73</text>
-<text x="267" y="321" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Technology</text>
-<rect x="290" y="295" width="898" height="30" rx="6" fill="#e9f0f3"/>
-<rect x="290" y="295" width="637.6" height="30" rx="6" fill="#31948b"/>
-<text x="939.6" y="319" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.71</text>
-<text x="267" y="378" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Project</text>
-<rect x="290" y="352" width="898" height="30" rx="6" fill="#e9f0f3"/>
-<rect x="290" y="352" width="538.8" height="30" rx="6" fill="#31948b"/>
-<text x="840.8" y="376" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.60</text>
-<text x="267" y="435" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Design</text>
-<rect x="290" y="409" width="898" height="30" rx="6" fill="#e9f0f3"/>
-<rect x="290" y="409" width="511.9" height="30" rx="6" fill="#31948b"/>
-<text x="813.9" y="433" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.57</text>
-<text x="267" y="492" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">System</text>
-<rect x="290" y="466" width="898" height="30" rx="6" fill="#e9f0f3"/>
-<rect x="290" y="466" width="458.0" height="30" rx="6" fill="#559eb2"/>
-<text x="760.0" y="490" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.51</text>
-<text x="267" y="549" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Fuel</text>
-<rect x="290" y="523" width="898" height="30" rx="6" fill="#e9f0f3"/>
-<rect x="290" y="523" width="395.1" height="30" rx="6" fill="#559eb2"/>
-<text x="697.1" y="547" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.44</text>
-<text x="267" y="606" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Plant</text>
-<rect x="290" y="580" width="898" height="30" rx="6" fill="#e9f0f3"/>
-<rect x="290" y="580" width="359.2" height="30" rx="6" fill="#559eb2"/>
-<text x="661.2" y="604" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.40</text>
-<text x="267" y="663" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Safety</text>
-<rect x="290" y="637" width="898" height="30" rx="6" fill="#e9f0f3"/>
-<rect x="290" y="637" width="323.3" height="30" rx="6" fill="#559eb2"/>
-<text x="625.3" y="661" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.36</text>
-<text x="267" y="720" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Construction</text>
-<rect x="290" y="694" width="898" height="30" rx="6" fill="#e9f0f3"/>
-<rect x="290" y="694" width="314.3" height="30" rx="6" fill="#559eb2"/>
-<text x="616.3" y="718" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.35</text>
-<text x="267" y="777" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Support</text>
-<rect x="290" y="751" width="898" height="30" rx="6" fill="#e9f0f3"/>
-<rect x="290" y="751" width="287.4" height="30" rx="6" fill="#8db5c2"/>
-<text x="589.4" y="775" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.32</text>
-<text x="267" y="834" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Industry</text>
-<rect x="290" y="808" width="898" height="30" rx="6" fill="#e9f0f3"/>
-<rect x="290" y="808" width="251.4" height="30" rx="6" fill="#8db5c2"/>
-<text x="553.4" y="832" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.28</text>
-<text x="267" y="891" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Government</text>
-<rect x="290" y="865" width="898" height="30" rx="6" fill="#e9f0f3"/>
-<rect x="290" y="865" width="242.5" height="30" rx="6" fill="#8db5c2"/>
-<text x="544.5" y="889" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.27</text>
-<text x="267" y="948" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Supply</text>
-<rect x="290" y="922" width="898" height="30" rx="6" fill="#e9f0f3"/>
-<rect x="290" y="922" width="233.5" height="30" rx="6" fill="#8db5c2"/>
-<text x="535.5" y="946" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.26</text>
-<text x="267" y="1005" text-anchor="end" font-family="Arial,sans-serif" font-size="21" fill="#202937">Generation</text>
-<rect x="290" y="979" width="898" height="30" rx="6" fill="#e9f0f3"/>
-<rect x="290" y="979" width="224.5" height="30" rx="6" fill="#8db5c2"/>
-<text x="526.5" y="1003" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#202937">0.25</text>
-<text x="60" y="1091" font-family="Arial,sans-serif" font-size="18" fill="#596777">Source: Kang et al. (2026), Table 2. These are relative lexical salience scores, not percentages or measures of policy priority.</text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1360"
+   height="1050"
+   viewBox="0 0 1360 1050"
+   version="1.1"
+   id="svg33"
+   sodipodi:docname="table2_normalized_tfidf.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs33" />
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.76645324"
+     inkscape:cx="587.11996"
+     inkscape:cy="618.43303"
+     inkscape:window-width="2304"
+     inkscape:window-height="1467"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg33" />
+  <rect
+     width="1360"
+     height="1050"
+     fill="#ffffff"
+     id="rect1"
+     x="0"
+     y="0"
+     style="stroke-width:0.968246" />
+  <text
+     x="60"
+     y="74"
+     font-family="Arial, sans-serif"
+     font-size="34px"
+     font-weight="700"
+     fill="#202937"
+     id="text1">Which terms dominate national SMR policy texts?</text>
+  <text
+     x="60"
+     y="111"
+     font-family="Arial, sans-serif"
+     font-size="19px"
+     fill="#596777"
+     id="text2">Country-normalized TF-IDF scores · Scores scaled from 0 to 1</text>
+  <line
+     x1="60"
+     y1="138"
+     x2="1300"
+     y2="138"
+     stroke="#d7e0e8"
+     stroke-width="2"
+     id="line2" />
+  <text
+     x="267"
+     y="207"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#202937"
+     id="text3">Reactor</text>
+  <rect
+     x="290"
+     y="181"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#e9f0f3"
+     id="rect3" />
+  <rect
+     x="290"
+     y="181"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#31948b"
+     id="rect4" />
+  <text
+     x="1200"
+     y="205"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#202937"
+     id="text4">1.00</text>
+  <text
+     x="267"
+     y="264"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#202937"
+     id="text5">Development</text>
+  <rect
+     x="290"
+     y="238"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#e9f0f3"
+     id="rect5" />
+  <rect
+     x="290"
+     y="238"
+     width="655.5"
+     height="30"
+     rx="6"
+     fill="#31948b"
+     id="rect6" />
+  <text
+     x="957.5"
+     y="262"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#202937"
+     id="text6">0.73</text>
+  <text
+     x="267"
+     y="321"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#202937"
+     id="text7">Technology</text>
+  <rect
+     x="290"
+     y="295"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#e9f0f3"
+     id="rect7" />
+  <rect
+     x="290"
+     y="295"
+     width="637.59998"
+     height="30"
+     rx="6"
+     fill="#31948b"
+     id="rect8" />
+  <text
+     x="939.59998"
+     y="319"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#202937"
+     id="text8">0.71</text>
+  <text
+     x="267"
+     y="378"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#202937"
+     id="text9">Project</text>
+  <rect
+     x="290"
+     y="352"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#e9f0f3"
+     id="rect9" />
+  <rect
+     x="290"
+     y="352"
+     width="538.79999"
+     height="30"
+     rx="6"
+     fill="#31948b"
+     id="rect10" />
+  <text
+     x="840.79999"
+     y="376"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#202937"
+     id="text10">0.60</text>
+  <text
+     x="267"
+     y="435"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#202937"
+     id="text11">Design</text>
+  <rect
+     x="290"
+     y="409"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#e9f0f3"
+     id="rect11" />
+  <rect
+     x="290"
+     y="409"
+     width="511.89999"
+     height="30"
+     rx="6"
+     fill="#31948b"
+     id="rect12" />
+  <text
+     x="813.90002"
+     y="433"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#202937"
+     id="text12">0.57</text>
+  <text
+     x="267"
+     y="492"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#202937"
+     id="text13">System</text>
+  <rect
+     x="290"
+     y="466"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#e9f0f3"
+     id="rect13" />
+  <rect
+     x="290"
+     y="466"
+     width="458"
+     height="30"
+     rx="6"
+     fill="#559eb2"
+     id="rect14" />
+  <text
+     x="760"
+     y="490"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#202937"
+     id="text14">0.51</text>
+  <text
+     x="267"
+     y="549"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#202937"
+     id="text15">Fuel</text>
+  <rect
+     x="290"
+     y="523"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#e9f0f3"
+     id="rect15" />
+  <rect
+     x="290"
+     y="523"
+     width="395.10001"
+     height="30"
+     rx="6"
+     fill="#559eb2"
+     id="rect16" />
+  <text
+     x="697.09998"
+     y="547"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#202937"
+     id="text16">0.44</text>
+  <text
+     x="267"
+     y="606"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#202937"
+     id="text17">Plant</text>
+  <rect
+     x="290"
+     y="580"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#e9f0f3"
+     id="rect17" />
+  <rect
+     x="290"
+     y="580"
+     width="359.20001"
+     height="30"
+     rx="6"
+     fill="#559eb2"
+     id="rect18" />
+  <text
+     x="661.20001"
+     y="604"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#202937"
+     id="text18">0.40</text>
+  <text
+     x="267"
+     y="663"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#202937"
+     id="text19">Safety</text>
+  <rect
+     x="290"
+     y="637"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#e9f0f3"
+     id="rect19" />
+  <rect
+     x="290"
+     y="637"
+     width="323.29999"
+     height="30"
+     rx="6"
+     fill="#559eb2"
+     id="rect20" />
+  <text
+     x="625.29999"
+     y="661"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#202937"
+     id="text20">0.36</text>
+  <text
+     x="267"
+     y="720"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#202937"
+     id="text21">Construction</text>
+  <rect
+     x="290"
+     y="694"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#e9f0f3"
+     id="rect21" />
+  <rect
+     x="290"
+     y="694"
+     width="314.29999"
+     height="30"
+     rx="6"
+     fill="#559eb2"
+     id="rect22" />
+  <text
+     x="616.29999"
+     y="718"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#202937"
+     id="text22">0.35</text>
+  <text
+     x="267"
+     y="777"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#202937"
+     id="text23">Support</text>
+  <rect
+     x="290"
+     y="751"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#e9f0f3"
+     id="rect23" />
+  <rect
+     x="290"
+     y="751"
+     width="287.39999"
+     height="30"
+     rx="6"
+     fill="#8db5c2"
+     id="rect24" />
+  <text
+     x="589.40002"
+     y="775"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#202937"
+     id="text24">0.32</text>
+  <text
+     x="267"
+     y="834"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#202937"
+     id="text25">Industry</text>
+  <rect
+     x="290"
+     y="808"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#e9f0f3"
+     id="rect25" />
+  <rect
+     x="290"
+     y="808"
+     width="251.39999"
+     height="30"
+     rx="6"
+     fill="#8db5c2"
+     id="rect26" />
+  <text
+     x="553.40002"
+     y="832"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#202937"
+     id="text26">0.28</text>
+  <text
+     x="267"
+     y="891"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#202937"
+     id="text27">Government</text>
+  <rect
+     x="290"
+     y="865"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#e9f0f3"
+     id="rect27" />
+  <rect
+     x="290"
+     y="865"
+     width="242.5"
+     height="30"
+     rx="6"
+     fill="#8db5c2"
+     id="rect28" />
+  <text
+     x="544.5"
+     y="889"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#202937"
+     id="text28">0.27</text>
+  <text
+     x="267"
+     y="948"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#202937"
+     id="text29">Supply</text>
+  <rect
+     x="290"
+     y="922"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#e9f0f3"
+     id="rect29" />
+  <rect
+     x="290"
+     y="922"
+     width="233.5"
+     height="30"
+     rx="6"
+     fill="#8db5c2"
+     id="rect30" />
+  <text
+     x="535.5"
+     y="946"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#202937"
+     id="text30">0.26</text>
+  <text
+     x="267"
+     y="1005"
+     text-anchor="end"
+     font-family="Arial, sans-serif"
+     font-size="21px"
+     fill="#202937"
+     id="text31">Generation</text>
+  <rect
+     x="290"
+     y="979"
+     width="898"
+     height="30"
+     rx="6"
+     fill="#e9f0f3"
+     id="rect31" />
+  <rect
+     x="290"
+     y="979"
+     width="224.5"
+     height="30"
+     rx="6"
+     fill="#8db5c2"
+     id="rect32" />
+  <text
+     x="526.5"
+     y="1003"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#202937"
+     id="text32">0.25</text>
 </svg>
