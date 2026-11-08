@@ -16,7 +16,7 @@ In **“How national nuclear energy plans frame small modular reactors (SMRs): e
 
 <figure style="width: 70%; margin: 1.5rem auto;">
   <img src="{{ '/assets/260805_smr_policy_framing/figure3_research_roadmap.png' | relative_url }}" alt="Study design from country and document selection through SMR-passage extraction and preprocessing, TF-IDF and LDA analyses, and robustness checks." style="display: block; width: 100%; height: auto;" loading="lazy">
-  <figcaption style="font-size: 0.875rem; color: #666; margin-top: 0.4rem;"></figcaption>
+  <figcaption style="font-size: 0.875rem; color: #666; margin-top: 0.4rem;">Study design</figcaption>
 </figure>
 
 ## Study context
